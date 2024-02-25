@@ -26,3 +26,9 @@ Privacy and security are paramount at FacePlugin Ltd. We adhere to the highest s
 
 Conclusion:
 FacePlugin Ltd. stands as a leading innovator in facial recognition technology and computer vision solutions. With a comprehensive suite of offerings encompassing face liveness detection, ID card recognition, biometric authentication, and e-KYC solutions, we empower organizations to achieve heightened security, streamline operations, and deliver superior user experiences in an increasingly digital world.
+
+## Contact
+
+<a target="_blank" href="mailto:info@faceplugin.com"><img src="https://img.shields.io/badge/email-info@faceplugin.com-blue.svg?logo=gmail " alt="faceplugin.com"></a>&emsp;
+<a target="_blank" href="https://t.me/andywu0202"><img src="https://img.shields.io/badge/telegram-@andywu0202-blue.svg?logo=telegram " alt="faceplugin.com"></a>&emsp;
+<a target="_blank" href="https://wa.me/+14422295661"><img src="https://img.shields.io/badge/whatsapp-faceplugin-blue.svg?logo=whatsapp " alt="faceplugin.com">
