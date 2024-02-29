@@ -6,13 +6,13 @@ FacePlugin Ltd is a pioneering company at the forefront of innovative solutions 
 
 <h2>Table of Contents</h2>
 
-* **[FacePlugin-FaceSDK-Android](https://github.com/Faceplugin-ltd/FacePlugin-FaceSDK-Android)**
-* **[FacePlugin-FaceSDK-iOS](https://github.com/Faceplugin-ltd/FacePlugin-FaceSDK-iOS)**
-* **[FacePlugin-FaceSDK-Javascript](https://github.com/Faceplugin-ltd/FacePlugin-FaceSDK-Javascript)**
-* **[FacePlugin-FaceLivenessDetection-Docker](https://github.com/Faceplugin-ltd/FacePlugin-FaceLivenessDetection-Docker)**
-* **[FacePlugin-FaceRecognition-Python](https://github.com/Faceplugin-ltd/FacePlugin-FaceRecognition-Python)**
-* **[FacePlugin-FaceRecognition-React](https://github.com/Faceplugin-ltd/FacePlugin-FaceRecognition-React)**
-* **[FacePlugin-FaceRecognition-Vue](https://github.com/Faceplugin-ltd/FacePlugin-FaceRecognition-Vue)**
+* **[FaceRecognition-LivenessDetection-Android](https://github.com/Faceplugin-ltd/FaceRecognition-LivenessDetection-Android)**
+* **[FaceRecognition-LivenessDetection-iOS](https://github.com/Faceplugin-ltd/FaceRecognition-LivenessDetection-iOS)**
+* **[FaceRecognition-LivenessDetection-Javascript](https://github.com/Faceplugin-ltd/FaceRecognition-LivenessDetection-Javascript)**
+* **[FaceLivenessDetection-Docker](https://github.com/Faceplugin-ltd/FaceLivenessDetection-Docker)**
+* **[FaceRecognition-Python](https://github.com/Faceplugin-ltd/FaceRecognition-Python)**
+* **[FaceRecognition-LivenessDetection-React](https://github.com/Faceplugin-ltd/FaceRecognition-LivenessDetection-React)**
+* **[FaceRecognition-LivenessDetection-Vue](https://github.com/Faceplugin-ltd/FaceRecognition-LivenessDetection-Vue)**
 
 
 ## Contact
