@@ -4,7 +4,7 @@
 FacePlugin Ltd is a pioneering company at the forefront of innovative solutions in the realm of facial recognition technology and computer vision. Established with a commitment to revolutionize security and authentication processes, FacePlugin specializes in cutting-edge solutions including face liveness detection, ID card recognition, face recognition, biometric authentication, and e-KYC (Electronic Know Your Customer) solutions.
 
 
-<h2>Table of Contents</h2>
+<h2>List of our Products</h2>
 
 * **[FaceRecognition-LivenessDetection-Android](https://github.com/Faceplugin-ltd/FaceRecognition-LivenessDetection-Android)**
 * **[FaceRecognition-LivenessDetection-iOS](https://github.com/Faceplugin-ltd/FaceRecognition-LivenessDetection-iOS)**
