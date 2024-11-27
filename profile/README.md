@@ -1,7 +1,7 @@
 
 ## Company Overview
 
-Faceplugin provides `face recognition SDK`, `liveness detection SDK` and `ID card recognition SDK` for ID verification and biometric authentication.
+[Faceplugin](https://faceplugin.com/)  provides `face recognition SDK`, `liveness detection SDK` and `ID card recognition SDK` for ID verification and biometric authentication.
 <br>All of our SDKs are fully `On-Premise`. Our liveness detection SDK is **iBeta level 2 compliant** and our face recognition algorithm is **top-ranked on NIST and FRVT**.
 
 
