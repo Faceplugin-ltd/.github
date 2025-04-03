@@ -4,6 +4,8 @@
 [Faceplugin](https://faceplugin.com/)  provides `face recognition SDK`, `liveness detection SDK` and `ID card recognition SDK` for ID verification and biometric authentication.
 <br>All of our SDKs are fully `On-Premise`. Our liveness detection SDK is **iBeta level 2 compliant** and our face recognition algorithm is **top-ranked on NIST and FRVT**.
 
+🤗 Hugging Face - [Here](https://huggingface.co/spaces/FacePlugin-Ltd/FaceRecognition-LivenessDetection-SDK)<br>
+📚 Documentation - [Here](https://doc.faceplugin.com)<br>
 
 <h2>List of our Products</h2>
 
@@ -12,6 +14,8 @@
 * **[Face Recognition with Liveness Detection-React Native](https://github.com/Faceplugin-ltd/FaceRecognition-React-Native)**
 * **[Face Recognition with Liveness Detection-Flutter](https://github.com/Faceplugin-ltd/FaceRecognition-Flutter)**
 * **[Face Recognition with Liveness Detection-Ionic Cordova](https://github.com/Faceplugin-ltd/FaceRecognition-Ionic-Cordova)**
+* **[Face Recognition with Liveness Detection-.Net MAUI](https://github.com/Faceplugin-ltd/FaceRecognition-.Net)**
+* **[Face Recognition with Liveness Detection-.Net WPF](https://github.com/Faceplugin-ltd/FaceRecognition-WPF-.Net)**
 * **[Face Recognition with Liveness Detection-Javascript](https://github.com/Faceplugin-ltd/FaceRecognition-LivenessDetection-Javascript)**
 * **[Face Recognition with LivenessDetection-React](https://github.com/Faceplugin-ltd/FaceRecognition-LivenessDetection-React)**
 * **[Face Recognition with LivenessDetection-Vue](https://github.com/Faceplugin-ltd/FaceRecognition-LivenessDetection-Vue)**
